@@ -1,0 +1,19 @@
+{
+  "name": "yamaha-parts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vova0211/Yamaha-parts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vova0211/Yamaha-parts/issues"
+  },
+  "homepage": "https://github.com/Vova0211/Yamaha-parts#readme"
+}
